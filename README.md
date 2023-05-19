@@ -22,7 +22,7 @@ To store values in Local Storage and create event listeners with JQuery. Also ho
 
 ## Installation
 
-// pending //
+https://rubenruiz411.github.io/Work-Day-Schedule/
 
 ## Usage
 
