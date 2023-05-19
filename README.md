@@ -10,7 +10,7 @@ To create a daily planner to help busy people keep track of tasks for business h
 
 - Why did you build this project? 
 
-To demonstrate ability to utilize JQuery/DayJS
+To demonstrate ability to utilize JQuery/DayJS.
 
 - What problem does it solve?
 
@@ -18,7 +18,7 @@ This is a quiz to test knowledge of JQuery/DayJS/CSS/JavaScript/HTML.
 
 - What did you learn?
 
-To store values in Local Storage and create event listeners with JQuery. Also how to set a current date/time with DayJS
+To store values in Local Storage and create event listeners with JQuery. Also how to set a current date/time with DayJS.
 
 ## Installation
 
