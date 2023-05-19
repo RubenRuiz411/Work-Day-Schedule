@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
-
+/* - text settings - */
 textarea {
   background: transparent;
   border: none;
@@ -29,17 +29,17 @@ textarea {
   color: #000000;
   border-top: 1px dashed #000000;
 }
-
+/* - changes color of sections of hours previous to current hour - */
 .past {
   background-color: #d3d3d3;
   color: white;
 }
-
+/* - changes color of section that reflects current hour - */
 .present {
   background-color: #ff6961;
   color: white;
 }
-
+/* - changes color of section of hours in the future of current hour - */
 .future {
   background-color: #77dd77;
   color: white;
