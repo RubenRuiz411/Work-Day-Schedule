@@ -2,7 +2,7 @@
 
 ## Description
 
-Coding Pop Quiz
+Work Day Scheduler
 
 - What was your motivation?
 
